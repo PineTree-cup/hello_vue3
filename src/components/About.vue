@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h2>大家好，欢迎来到尚硅谷直播间</h2>
+    <h2>Welcome</h2>
   </div>
 </template>
 

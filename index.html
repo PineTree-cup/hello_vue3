@@ -9,6 +9,14 @@
   <body>
     <div id="app"></div>
     <script type="module" src="/src/main.ts"></script>
-    <div>caonima</div>
+    <div>main</div>
   </body>
 </html>
+<script>
+    console.log('VITE_ENV:', '%VITE_ENV%');
+    if ('%VITE_ENV%'.includes('out')) {
+      console.log('index-对外系统')
+    } else {
+      console.log('index-对内系统')
+    }
+</script>
