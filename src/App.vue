@@ -21,7 +21,7 @@ import {RouterView,RouterLink} from 'vue-router'
 
 <style>
 /* App */
-.title {
+/*.title {
   text-align: center;
   word-spacing: 5px;
   margin: 30px 0;
@@ -63,5 +63,5 @@ import {RouterView,RouterLink} from 'vue-router'
   width: 90%;
   height: 400px;
   border: 1px solid;
-}
+}*/
 </style>
